@@ -4,5 +4,5 @@
 /target/
 
 *.pyc
-.iml
+*.iml
 
