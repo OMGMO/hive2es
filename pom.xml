@@ -15,7 +15,7 @@
         <spark.version>2.3.3</spark.version>
         <args4j.version>2.32</args4j.version>
         <slf4j.version>1.7.21</slf4j.version>
-        <elasticsearch.version>6.5.4</elasticsearch.version>
+        <elasticsearch.version>6.8.17</elasticsearch.version>
         <main.class>com.omg.java.Main</main.class>
 
         <!-- Configurations used perform an SCP deploy -->
